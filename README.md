@@ -23,7 +23,6 @@ I build real products for real people — rental platforms, POS systems, expense
 | [Dukan-POS](https://github.com/aman002175/Dukan-POS) | 🧾 Billing & POS system for shop owners with AI chat management |
 | [RoomieApp](https://github.com/aman002175/RoomieApp) | 💸 Roommate expense manager — Flutter + Supabase, auto month-end split |
 | [Vasuli](https://github.com/aman002175/Vasuli) | 📒 Privacy-first ledger app with WhatsApp automation |
-| [Karni-Hanumangarh-](https://github.com/aman002175/Karni-Hanumangarh-) | ☕ Cafe/restaurant order management system |
 
 ## 📊 GitHub Stats
 
