@@ -17,12 +17,13 @@ I build real products for real people — rental platforms, POS systems, expense
 
 ## 🚀 Featured Projects
 
-| Project | What it is |
-|---|---|
-| [Roomkhojoo](https://github.com/aman002175/Roomkhojoo) | 🗺️ Map-based room/PG rental discovery — no brokers, direct owner contact |
-| [Dukan-POS](https://github.com/aman002175/Dukan-POS) | 🧾 Billing & POS system for shop owners with AI chat management |
-| [RoomieApp](https://github.com/aman002175/RoomieApp) | 💸 Roommate expense manager — Flutter + Supabase, auto month-end split |
-| [Vasuli](https://github.com/aman002175/Vasuli) | 📒 Privacy-first ledger app with WhatsApp automation |
+| Project | Links | What it is |
+|---|---|---|
+| RoomKhojo | [Live](https://roomkhojoo.vercel.app/) · [Code](https://github.com/aman002175/Roomkhojoo) | Map-based room/PG rental discovery — no brokers, direct owner contact |
+| Dukaan POS | [Live](https://dukan-pos-chi.vercel.app/) · [Code](https://github.com/aman002175/Dukan-POS) | Billing & POS system for shop owners with AI chat management |
+| RoomieKhata | [Live](https://roomiekhata.vercel.app/) · [Code](https://github.com/aman2006855/Roomiekhata) | Roommate expense manager — Flutter + Supabase, auto month-end split |
+| Vasuli | [Code](https://github.com/aman002175/Vasuli) | Privacy-first ledger app with WhatsApp automation |
+| Karni Cafe | [Code](https://github.com/aman002175/Karni-cafe) | Cafe/restaurant order management system |
 
 ## 📊 GitHub Stats
 
